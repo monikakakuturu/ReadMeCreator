@@ -46,6 +46,6 @@ run node index.js and enter the information in command line
 <a name="ques"></a>
 ## 7. Questions
 
-Github Profile: [monika kakuturu](github.com/monikakakuturu)
+Github Profile: [monika kakuturu](http://github.com/monikakakuturu)
 
 If you have any additional questions, please reach me at "monikakakuturu@gmail.com"
