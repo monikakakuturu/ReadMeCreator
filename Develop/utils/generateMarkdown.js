@@ -53,7 +53,7 @@ ${data.testInstructions}
 <a name="ques"></a>
 ## 7. Questions
 
-Github Profile: [a link](github.com/${data.githubUser})
+Github Profile: [Monika Kakuturu](github.com/${data.githubUser})
 If you have any additional questions, please reach me at \"${data.email}\"
 `;
 }
