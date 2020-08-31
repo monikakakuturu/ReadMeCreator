@@ -8,4 +8,4 @@ Generated file includes the Table of Contents with links to the detailed section
 
 "npm install" should be called to install the javascript packages from the current folder location.
 
-[GitHub link](https://github.com/monikakakuturu/ReadMeCreator/blob/master/Develop/README.md)
+[GitHub link to README](https://github.com/monikakakuturu/ReadMeCreator/blob/master/Develop/README.md)
